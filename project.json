@@ -1,0 +1,43 @@
+{
+  "name": "1.1_lerros",
+  "description": "garments documents",
+  "main": "Main.xaml",
+  "dependencies": {
+    "BalaReva.Excel.Activities": "[2019.4.0]",
+    "BitMiracle.Docotic.Pdf": "[6.0.10212]",
+    "Google.DataTable.Net.Wrapper": "[4.0.0]",
+    "MavenickConsulting.AutocloseMsgBox.Activities": "[1.1.2]",
+    "PDF_Activities": "[1.0.2]",
+    "UiPath.Excel.Activities": "[2.8.0-preview]",
+    "UiPath.GoogleVision.Activities": "[1.1.1]",
+    "UiPath.Mail.Activities": "[1.8.0-preview]",
+    "UiPath.System.Activities": "[19.12.0-preview]",
+    "UiPath.UIAutomation.Activities": "[19.12.0-preview]",
+    "UiPathTeam.PDF.Extensions.Activities": "[2.4.0]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "19.12.0.61",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfos": []
+  },
+  "expressionLanguage": "VisualBasic"
+}
